@@ -1,5 +1,5 @@
 {
-  "name": "codex-desktop",
+  "name": "codex-plugins",
   "interface": {
     "displayName": "OpenAI Official"
   },
